@@ -1,0 +1,90 @@
+
+
+a:hover {
+    background-color:red;
+}
+
+.j {
+    
+    background-color: yellowgreen;
+    text-align: center;
+    border-color: black;
+    border: 5px groove;
+    padding: 10px;
+    margin: left;
+}
+.o {
+
+    background-color: yellowgreen;
+    text-align: center;
+    border-color: black;
+    border: 5px groove;
+    padding: 10px;
+    margin:center;
+    
+
+    
+
+}
+.h {
+    
+    background-color: yellowgreen;
+    text-align: center;
+    border-color: black;
+    border: 5px groove;
+    padding: 10px;
+    margin:center;
+   
+}
+.n {
+   
+    background-color: yellowgreen;
+    text-align: center;
+    border-color: black;
+    border: 5px groove;
+    padding: 10px;
+    margin:right;
+}
+body {
+    background-image: url("starry-sky.gif");
+    background-repeat: repeat-x;
+    background-position: 50%,190%;
+    background-size: 50%;
+    height:500px;
+   
+    
+   
+    
+}
+
+    
+table {
+    
+    border-style: groove;
+    width:30%;
+    text-align:center;
+    margin:auto;    
+
+    
+}
+.red {
+    text-align: left;
+}
+th, td { 
+    padding:8px;
+    text align: left;
+    border-bottom: 1px solid #ddd;
+}
+.darv {
+    text-align: center;
+}
+
+
+tr:nth-child(odd) {background-color: silver;}
+tr:nth-child(even) {background-color: slateblue;}
+td:hover {
+    background-color: gold;
+}
+th:hover {
+    background-color: gold;
+}
